@@ -56,7 +56,7 @@ O objetivo deste curso é apresentar as ideias essenciais por trás do Machine L
 
 -------------------------------------
 
-- Mais informações sobre a Curso-R (instituição de ensino): 
+- Referências: 
   - [Curso-R](https://www.curso-r.com/sobre/)
   - [Outros Cursos na Curso-R](https://www.curso-r.com/cursos/)
 - [Comunidade da Curso-R](https://discourse.curso-r.com/)
