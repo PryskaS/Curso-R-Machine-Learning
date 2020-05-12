@@ -5,6 +5,12 @@
 # Introdução ao Machine Learning com R
 O objetivo deste curso é apresentar as ideias essenciais por trás do Machine Learning, desenvolvendo a análise crítica necessária para escolher, ajustar, avaliar e interpretar modelos preditivos, utilizando o R como ferramenta. 
 
+### Requisitos básicos:
+- Estatística básica
+- R para ciência de dados.
+
+### Conteúdo do curso: 
+
 - **O que é Machine Learning?** 
   - Introdução ao Machine Learning
 - **Flexibilidade ou Interpretabilidade da f(x)**
@@ -56,7 +62,7 @@ O objetivo deste curso é apresentar as ideias essenciais por trás do Machine L
 
 -------------------------------------
 
-- Referências: 
+### Referências: 
   - [Curso-R](https://www.curso-r.com/sobre/)
   - [Outros Cursos na Curso-R](https://www.curso-r.com/cursos/)
 - [Comunidade da Curso-R](https://discourse.curso-r.com/)
