@@ -25,7 +25,7 @@ O objetivo deste curso é apresentar as ideias essenciais por trás do Machine L
   - Métricas de performance
 - **Hiperparâmetros e Overfitting**
 
-- [x] [3-Exercício_split]
+- [x] [3-Exercício_Testando modelos em base com dados separados]()
  
 - **Cross-validation**
 - **Modelos lineares**
