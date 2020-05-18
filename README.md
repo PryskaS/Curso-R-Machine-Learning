@@ -25,14 +25,18 @@ O objetivo deste curso é apresentar as ideias essenciais por trás do Machine L
   - Métricas de performance
 - **Hiperparâmetros e Overfitting**
 
-- [x] [3-Exercício_Testando modelos em base com dados separados]()
+- [x] [3-Exercício_Testando modelos train/test](https://github.com/PryskaS/Curso-R-Machine-Learning/blob/master/03-exercicio-split.R)
+- [x] [4-Exercício]()
  
 - **Cross-validation**
 - **Modelos lineares**
   - Regressão linear, Regularização (LASSO e Ridge)
   - Regressão logística, regressão vs classificação
   
-> Exercícios | Tarefas
+- [ ] [5-Exercício]()
+- [x] [6-Exercício Modelos Lineares]()
+- [x] [7-Exercício_Regularização]()
+- [x] [8-Exercício_Regressão Logística]()
    
 - **Modelos de Árvores**
   - Decision Trees
@@ -41,8 +45,10 @@ O objetivo deste curso é apresentar as ideias essenciais por trás do Machine L
   - XGBoost
 - **Relação Viés-Variância (Bias-variance tradeoff)**
 
-> Exercícios | Tarefas
- 
+- [ ] [9-Exercício]()
+- [ ] [10-Exercício_Random Forest]()
+- [ ] [11-Exercício_Xboost]()
+
 - **Dataprep e Workflows**
   - Valores omissos
   - Normalização
@@ -54,13 +60,14 @@ O objetivo deste curso é apresentar as ideias essenciais por trás do Machine L
   - One-hot
   - Workflow
   
-> Exercícios | Tarefas
+- [ ] [12-Exercício]()
+- [ ] [13-Exercício]()
+- [ ] [14-Exercício]()
    
 - **Estudo de Caso**
   - Kaggle - Titanic
   
-> Desafio
-
+[ ] 
 -------------------------------------
 
 ### Referências: 
