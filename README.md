@@ -16,6 +16,7 @@ O objetivo deste curso é apresentar as ideias essenciais por trás do Machine L
 - **Flexibilidade ou Interpretabilidade da f(x)**
 
 - [x] [1-Exercício_Árvores](https://github.com/PryskaS/Curso-R-Machine-Learning/blob/master/01-exercicio-arvores.R)
+- [x] [2-Exercício_Árvores]()
   
 - **Base de treino e base de teste**
   - Separação da base de dados
@@ -24,7 +25,7 @@ O objetivo deste curso é apresentar as ideias essenciais por trás do Machine L
   - Métricas de performance
 - **Hiperparâmetros e Overfitting**
 
-> Exercícios | Tarefas
+- [x] [3-Exercício_split]
  
 - **Cross-validation**
 - **Modelos lineares**
