@@ -66,8 +66,8 @@ O objetivo deste curso é apresentar as ideias essenciais por trás do Machine L
    
 - **Estudo de Caso**
   - Kaggle - Titanic
+  - [ ] [15-Exercício: predições para o desafio Titanic do Kaggle]()
   
-[ ] 
 -------------------------------------
 
 ### Referências: 
