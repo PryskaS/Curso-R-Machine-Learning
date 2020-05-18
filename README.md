@@ -15,7 +15,7 @@ O objetivo deste curso é apresentar as ideias essenciais por trás do Machine L
   - Introdução ao Machine Learning
 - **Flexibilidade ou Interpretabilidade da f(x)**
 
-> Exercícios | Tarefas
+- [x] 1-Exercício - Árvores
   
 - **Base de treino e base de teste**
   - Separação da base de dados
