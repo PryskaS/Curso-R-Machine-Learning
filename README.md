@@ -15,8 +15,8 @@ O objetivo deste curso é apresentar as ideias essenciais por trás do Machine L
   - Introdução ao Machine Learning
 - **Flexibilidade ou Interpretabilidade da f(x)**
 
-- [x] [1-Exercício_Previsão com Decision Tree](https://github.com/PryskaS/Curso-R-Machine-Learning/blob/master/01-exercicio-arvores.R)
-- [x] [2-Exercício_Previsão com Decision Tree](https://github.com/PryskaS/Curso-R-Machine-Learning/blob/master/02-exercicio-arvores.R)
+- [x] [1-Exercício: Previsão com Decision Tree](https://github.com/PryskaS/Curso-R-Machine-Learning/blob/master/01-exercicio-arvores.R)
+- [x] [2-Exercício: Previsão com Decision Tree](https://github.com/PryskaS/Curso-R-Machine-Learning/blob/master/02-exercicio-arvores.R)
   
 - **Base de treino e base de teste**
   - Separação da base de dados
@@ -25,18 +25,18 @@ O objetivo deste curso é apresentar as ideias essenciais por trás do Machine L
   - Métricas de performance
 - **Hiperparâmetros e Overfitting**
 
-- [x] [3-Exercício_Testando modelos train/test](https://github.com/PryskaS/Curso-R-Machine-Learning/blob/master/03-exercicio-split.R)
-- [x] [4-Exercício_Cross Validation](https://github.com/PryskaS/Curso-R-Machine-Learning/blob/master/04-exercicio-cross_validation.R)
+- [x] [3-Exercício: Testando modelos train/test](https://github.com/PryskaS/Curso-R-Machine-Learning/blob/master/03-exercicio-split.R)
+- [x] [4-Exercício: Cross Validation](https://github.com/PryskaS/Curso-R-Machine-Learning/blob/master/04-exercicio-cross_validation.R)
  
 - **Cross-validation**
 - **Modelos lineares**
   - Regressão linear, Regularização (LASSO e Ridge)
   - Regressão logística, regressão vs classificação
   
-- [ ] [5-Exercício]()
-- [x] [6-Exercício Modelos Lineares]()
-- [x] [7-Exercício_Regularização]()
-- [x] [8-Exercício_Regressão Logística]()
+- [x] [5-Exercício: Reconstrução de imagens com Machine Learning](https://github.com/PryskaS/Curso-R-Machine-Learning/blob/master/05-exercicio-reconstru%C3%A7%C3%A3o-de-imagens.R)
+- [x] [6-Exercício: Modelos Lineares]()
+- [x] [7-Exercício: Regularização]()
+- [x] [8-Exercício: Regressão Logística]()
    
 - **Modelos de Árvores**
   - Decision Trees
