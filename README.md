@@ -34,7 +34,7 @@ O objetivo deste curso é apresentar as ideias essenciais por trás do Machine L
   - Regressão logística, regressão vs classificação
   
 - [x] [5-Exercício: Reconstrução de imagens com Machine Learning](https://github.com/PryskaS/Curso-R-Machine-Learning/blob/master/05-exercicio-reconstru%C3%A7%C3%A3o-de-imagens.R)
-- [x] [6-Exercício: Modelos Lineares]()
+- [x] [6-Exercício: Modelos Lineares](https://github.com/PryskaS/Curso-R-Machine-Learning/blob/master/06-exercicio-modelos-lineares.R)
 - [x] [7-Exercício: Regularização]()
 - [x] [8-Exercício: Regressão Logística]()
    
