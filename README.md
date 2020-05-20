@@ -26,7 +26,7 @@ O objetivo deste curso é apresentar as ideias essenciais por trás do Machine L
 - **Hiperparâmetros e Overfitting**
 
 - [x] [3-Exercício_Testando modelos train/test](https://github.com/PryskaS/Curso-R-Machine-Learning/blob/master/03-exercicio-split.R)
-- [x] [4-Exercício]()
+- [x] [4-Exercício_Cross Validation](https://github.com/PryskaS/Curso-R-Machine-Learning/blob/master/04-exercicio-cross_validation.R)
  
 - **Cross-validation**
 - **Modelos lineares**
